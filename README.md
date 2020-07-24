@@ -1,3 +1,11 @@
+# Hello React
+Here in this project, we will create an app which will use the virtual DOM capability and the router thing.
+
+Aim is to learn the way how instagram routes. *Hope to have a node backend and then uploading it to on GITHUB Pages.*
+
+If possible, creating an app like instagram or something for IIT Mandi.
+Right now this one is for learning react and about it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
